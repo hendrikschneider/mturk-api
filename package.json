@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/josebarrios/mturk-api#readme",
   "dependencies": {
-    "crypto-js": "^3.1.5",
+    "crypto-js": "^4.2.0",
     "lodash": "^4.13.1",
     "promise-throttle": "^0.2.0",
     "soap": "^0.16.0"
